@@ -53,3 +53,10 @@ The dataset contains customer demographics, billing, account activity, and usage
 </p>
 
 ---
+
+## ▶️ How to Run
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
